@@ -1,67 +1,58 @@
-<p align="center">
-  <h3 align="center">Heya 👋, I'm Sanaullah</h3>
-</p>
-<p align="center">
-    <a href="https://hashirshoaeb.github.io">About Me</a>
-    ·
-    <a href="mailto:hashirshoaeb@gmail.com">Email</a>
-    ·
-    <a href="https://linkedin.com/in/hashirshoaeb">LinkedIn</a>
-    ·
-    <a href="https://twitter.com/hashirshoaeb">Twitter</a>
-</p>
-<p align="center">
-  <h4 align="center">Computer Engineer from Lahore, Pakistan</h4>
-</p>
+<!-- <img src="https://raw.githubusercontent.com/srrabbi01/srrabbi01/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
-</p>
+<h2> Hey there! I'm Sanaullah Rabbi.</h2>
+<h4>I'm the FullStack Developer | Software Engineer | Internet Expert</h4>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<hr/>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and
+  quick hacks.
+- 🎓 &nbsp; Studying computer science and engineering at Asian University of
+  Bangladesh.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech
+  Private Limited.
+- 🌱 &nbsp; Currently focusing on web and android development
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
-- 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz.
-- 💬 Ask me about **Dart, Flutter, Swift, git**.
-- 📫 How to reach me: [@hashirshoaeb](https://twitter.com/hashirshoaeb)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: A coder who doesn't like coffee.
-<!-- - 🌱 I’m currently learning **Software Design Patterns**. -->
-<!-- - 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/hashirshoaeb/star_book)**. -->
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-36454F?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-36454F?style=flat&logo=C%2B%2B)
+  ![C](https://img.shields.io/badge/-C-36454F?style=flat&logo=C)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-36454F?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-36454F?style=flat&logo=CSS3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-36454F?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-36454F?style=flat&logo=bootstrap)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-36454F?style=flat&logo=tailwindcss)
+  ![React](https://img.shields.io/badge/-React-36454F?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-36454F?style=flat&logo=mysql)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-36454F?style=flat&logo=postgresql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-36454F?style=flat&logo=sqlite)
+- ⚙️ &nbsp; ![Git](https://img.shields.io/badge/-Git-36454F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-36454F?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-36454F?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-36454F?style=flat&logo=visual-studio-code)
+  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-36454F?style=flat&logo=sublime-text)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-36454F?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-36454F?style=flat&logo=adobe-photoshop)
+  ![Figma](https://img.shields.io/badge/-Figma-36454F?style=flat&logo=figma)
 
-### Projects
-#### Flutter & Dart 
-[**Starbook**](https://github.com/hashirshoaeb/star_book) 
-A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.
-<br />
-[**QuranTalk**](https://github.com/qurantalk) <br />An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.
-<br />
+<br/>
 
-#### Swift & iOS
-[**VIP Architecture Example**](https://github.com/hashirshoaeb/vip) <br />A simple swift example code based on VIP architecture.
-<br />
+<a href="https://github.com/srrabbi01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srrabbi01&theme=default&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srrabbi01&theme=default&layout=compact" />
+</a>
 
-#### Reactjs & Nextjs
-[**Home**](https://github.com/hashirshoaeb/home)<br />Portfolio website template.
-<br />
-[**Portfolio**](https://github.com/hashirshoaeb/portfolio) <br />A static website/portfolio template built for freelancers / indie developers, to showcase recent projects and services.
-<br />
+<br/>
 
-<hr/>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<div align="center"> 
-<br />
+[![Facebook Badge](https://img.shields.io/badge/-Sanaullah.Rabbi-3b5998?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/sanaullah.rabbi/)](https://www.facebook.com/sanaullah.rabbi/)
+[![Gmail Badge](https://img.shields.io/badge/-srrabbi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srrabbi01@gmail.com)](mailto:srrabbi01@gmail.com)
 
-[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb)
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
-
-</div>
-
-<!--
-**hashirshoaeb/hashirshoaeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
--->
+⭐️ From [srrabbi01](https://github.com/srrabbi01)
