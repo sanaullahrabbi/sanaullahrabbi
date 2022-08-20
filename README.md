@@ -1,7 +1,7 @@
-<!-- <img src="https://raw.githubusercontent.com/srrabbi01/srrabbi01/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
-
-<h2> Hey there! I'm Sanaullah Rabbi.</h2>
-<h4>I'm the FullStack Developer | Software Engineer | Internet Expert</h4>
+<!-- <img src="https://raw.githubusercontent.com/sanaullahrabbi/sanaullahrabbi/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
+[![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://sanaullahrabbi.github.io/digital-resume)
+## Hey there! I'm Sanaullah Rabbi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+#### I'm the FullStack Developer | Software Engineer | Internet Expert
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and
@@ -11,11 +11,14 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech
   Private Limited.
 - 🌱 &nbsp; Currently focusing on web and android development
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+##### [Digital Resume](https://sanaullahrabbi.github.io/digital-resume)
+### Skills
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-1C1E24?style=for-the-badge&logo=tailwindcss&logoColor=#D04A37) 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+- 💻 &nbsp; 
   ![Python](https://img.shields.io/badge/-Python-36454F?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-36454F?style=flat&logo=C%2B%2B)
   ![C](https://img.shields.io/badge/-C-36454F?style=flat&logo=C)
@@ -26,6 +29,9 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-36454F?style=flat&logo=bootstrap)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-36454F?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-36454F?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-36454F?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/-Django-36454F?style=flat&logo=django)
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-36454F?style=flat&logo=mysql)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-36454F?style=flat&logo=postgresql)
@@ -43,16 +49,16 @@
 
 <br/>
 
-<a href="https://github.com/srrabbi01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srrabbi01&theme=default&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srrabbi01&theme=default&layout=compact" />
-</a>
-
+![GitHub streak stats](https://github-readme-stats.vercel.app/api?username=sanaullahrabbi&theme=dark&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanaullahrabbi&theme=dark)  
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Facebook Badge](https://img.shields.io/badge/-Sanaullah.Rabbi-3b5998?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/sanaullah.rabbi/)](https://www.facebook.com/sanaullah.rabbi/)
-[![Gmail Badge](https://img.shields.io/badge/-srrabbi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srrabbi01@gmail.com)](mailto:srrabbi01@gmail.com)
 
-⭐️ From [srrabbi01](https://github.com/srrabbi01)
+[![Facebook Badge](https://img.shields.io/badge/-Sanaullah.Rabbi-3b5998?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/sanaullah.rabbi/)](https://www.facebook.com/sanaullah.rabbi/)
+[![Gmail Badge](https://img.shields.io/badge/-sanaullahrabbi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanaullahrabbi@gmail.com)](mailto:sanaullahrabbi@gmail.com)
+
+#### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanaullahrabbi)
+
+⭐️ From [sanaullahrabbi](https://github.com/sanaullahrabbi)
