@@ -65,10 +65,10 @@
 </div>
 
 ###
-#### 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me </h3>
 
 [![Facebook Badge](https://img.shields.io/badge/-Sanaullah.Rabbi-3b5998?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/sanaullah.rabbi/)](https://www.facebook.com/sanaullah.rabbi/)
-[![Gmail Badge](https://img.shields.io/badge/-sanaullahrabbi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanaullahrabbi@gmail.com)](mailto:sanaullahrabbi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-srrabbi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanaullahrabbi@gmail.com)](mailto:srrabbi01@gmail.com)
 
 ##### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sanaullahrabbi)
